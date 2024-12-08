@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm **Fatima Asif**, a **junior at CUNY Hunter College**, pursuing a **B.A. in Computer Science** with a minor in **Mathematics**. As a **Daedalus Honors Scholar**, I’m passionate about data science and analytics!   
 
-<!--
-**fatimasif/fatimasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- **Programming Languages:**  
+  C++, Python, JavaScript, HTML/CSS, Swift  
+- **Tools & Technologies:**  
+  Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux  
+- **Current Focus:**  
+  Machine learning, robotics, and building software solutions  
+- **Fun Fact:**  
+  I love exploring new cafes in NYC!  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Get in Touch  
+- 💼 [LinkedIn](www.linkedin.com/in/fatima-asif-66ba76217)   
