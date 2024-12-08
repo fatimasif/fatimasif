@@ -15,4 +15,4 @@ I'm **Fatima Asif**, a **junior at CUNY Hunter College**, pursuing a **B.A. in C
 ---
 
 ## 💼 Get in Touch  
-- [LinkedIn]([www.linkedin.com/in/fatima-asif-66ba76217](https://www.linkedin.com/in/fatima-asif-66ba76217/))   
+- [LinkedIn](www.linkedin.com/in/fatima-asif-66ba76217)   
